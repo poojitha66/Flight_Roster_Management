@@ -2,8 +2,6 @@
 
 A modern, web-based solution for airlines to efficiently manage flight schedules, crew assignments, and operational logistics. This system streamlines the complex process of coordinating flights and crew members while providing real-time insights into operational metrics.
 
-![Dashboard Preview](https://images.pexels.com/photos/7439146/pexels-photo-7439146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
-<img width="959" alt="image" src="https://github.com/user-attachments/assets/1c891f7b-6821-4c63-ab3b-4d7bc25ea38b" />
 
 
 ## Features
@@ -13,12 +11,15 @@ A modern, web-based solution for airlines to efficiently manage flight schedules
 - Interactive charts for crew utilization and flight status
 - Customizable dashboard layout
 - Quick access to critical information
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/1c891f7b-6821-4c63-ab3b-4d7bc25ea38b" />
+
 
 ### 2. Flight Management
 - Comprehensive flight scheduling
 - Real-time flight status tracking
 - Aircraft assignment and monitoring
 - Delay and cancellation management
+<img width="890" alt="image" src="https://github.com/user-attachments/assets/c787d447-934e-43a4-89db-987797ef4fba" />
 
 ### 3. Crew Management
 - Detailed crew profiles and qualifications
@@ -37,6 +38,8 @@ A modern, web-based solution for airlines to efficiently manage flight schedules
 - Priority-based notification system
 - Customizable notification preferences
 - Multi-channel delivery (in-app, email)
+  <img width="896" alt="image" src="https://github.com/user-attachments/assets/f94480fa-4b3d-4280-b24c-6ee6ccf5bb72" />
+
 
 ## Technology Stack
 
