@@ -3,6 +3,8 @@
 A modern, web-based solution for airlines to efficiently manage flight schedules, crew assignments, and operational logistics. This system streamlines the complex process of coordinating flights and crew members while providing real-time insights into operational metrics.
 
 ![Dashboard Preview](https://images.pexels.com/photos/7439146/pexels-photo-7439146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/1c891f7b-6821-4c63-ab3b-4d7bc25ea38b" />
+
 
 ## Features
 
