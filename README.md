@@ -2,8 +2,9 @@
 
 A modern, web-based solution for airlines to efficiently manage flight schedules, crew assignments, and operational logistics. This system streamlines the complex process of coordinating flights and crew members while providing real-time insights into operational metrics.
 
-## Application
-**view live application(https://6872bc441f3e0efc0433c367--flightroster.netlify.app/)**
+## 🚀 Live Demo
+
+**[View Live Application](https://app.netlify.com/projects/flightroster/deploys/6872bc441f3e0efc0433c367)**
 
 ## Features
 
